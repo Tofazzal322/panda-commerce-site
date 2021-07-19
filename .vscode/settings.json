@@ -1,0 +1,6 @@
+{
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
+}
